@@ -1,0 +1,17 @@
+{
+  "name": "@qrohlf/pr-blaster",
+  "version": "1.0.0",
+  "description": "leave a comment on GH PRs from CI, auto-updating",
+  "main": "index.js",
+  "author": "Quinn Rohlf <qr@qrohlf.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "request": "^2.78.0"
+  },
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}
